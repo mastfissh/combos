@@ -1,5 +1,5 @@
 {
-  "substances": ["milk", "cereal", "salt"],
+  "substances": ["milk", "cereal", "salt", "potato"],
   "danger" : [
     ["milk", "salt"]
   ],
