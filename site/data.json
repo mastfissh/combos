@@ -1,0 +1,9 @@
+{
+  "substances": ["milk", "cereal", "salt"],
+  "danger" : [
+    ["milk", "salt"]
+  ],
+  "safe" :[
+    ["cereal", "milk"],
+  ]
+}
